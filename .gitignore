@@ -1,3 +1,5 @@
 src/convert_to_csv.py
 src/generate_synthetic_dataset.py
 src/anonymize_video_ids.py
+src/generate_synthetic_time_windows.py
+notebooks/video_features_exploration.ipynb
